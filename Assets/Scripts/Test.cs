@@ -8,9 +8,11 @@ public class Test
 
     public Test()
     {
-        var events = midiTrack.Events;
+
+        //var fileLocation = 
+        //var events = midiTrack.Events;
         
         //midiTrack = new MidiFile();
     }
-    
+
 }
